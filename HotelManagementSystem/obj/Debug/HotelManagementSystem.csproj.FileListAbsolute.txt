@@ -1,0 +1,15 @@
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.LoginForm.resources
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Dashboard.resources
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.manifest
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.application
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe.manifest
+D:\Projects\Hotel-Management-System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.application
